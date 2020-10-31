@@ -1,0 +1,8 @@
+ls
+cd
+ls
+cd Documents
+touch hehexd
+ls
+rm hehexd
+ls
